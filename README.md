@@ -2,8 +2,7 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Porgrammer and a Web Developer</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently React)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>Java, Python, JavaScript, HTML, CSS, MySql</strong></li>
+<li>:seedling: I'm in constant learning</li>
 <li>🇮🇳: From Kolkata, India</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 </ul>
