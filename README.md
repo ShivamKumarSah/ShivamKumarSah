@@ -1,87 +1,96 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Shivam<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Porgrammer and a Web Developer</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1D7FFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Shivam+Kumar+Sah!;Web+Developer+%7C+Programmer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG">
+</p>
 
-<ul style="list-style: none;">
-<li>:seedling: I'm in constant learning</li>
-<li>🇮🇳: From Kolkata, India</li>
-<li>:rocket: I'm looking for new projects and work opportunities</li>
-</ul>
-<div align="center">
-<h3>Contact Me :handshake:</h3>
-<a href="https://github.com/ShivamKumarSah" target="_blank"><img src="https://img.shields.io/badge/-ShivamKumarSah-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-shivam_sah-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/i_am_shivam_sah" target="_blank"><img src="https://img.shields.io/badge/-i_am_shivam_sah-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
-<a href="https://twitter.com/I_am_Shivam_Sah" target="_blank"><img src="https://img.shields.io/badge/-I_am_Shivam_Sah-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
-<br/><br/>
-<a href="https://www.buymeacoffee.com/DeveloperBros" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Shivamkumarsah" /></a>
-</div>
+<!-- Profile Image and Short Bio -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/67648712?v=4" width="120" height="120" style="border-radius:50%;" alt="Shivam Kumar Sah"/>
+</p>
+<p align="center">
+  <b>🚀 Programmer | 🎨 Web Developer | 📝 Lifelong Learner</b><br>
+  <em>Turning ideas into code, one pixel at a time.</em>
+</p>
 
-
----
-
-<div align="center">
-<h2>Knowledge Base :hammer_and_wrench:</h2>
-
-<h3>Back-end & Front-end</h3>
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
-<a href="https://reactjs.org//" target="_blank"><img src="https://img.shields.io/badge/-React-white?logo=react&style=for-the-badge" alt="React"/></a>
-
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="tailwindcss"/></a>
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
-<a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
-
-
-
-<a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
-
-
-<h3>Database</h3>
-
-<a href="https://www.oracle.com/in/database//" target="_blank"><img src="https://img.shields.io/badge/-oracle-white?logo=oracle&logoColor=4479A1&style=for-the-badge" alt="oracle"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
-
-
-<h3>Version Control & CI/CD</h3>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/></a>
-
-
-<h3>Cloud & Hosting</h3>
-
-<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/-google_cloud-white?logo=googlecloud&logoColor=232F3E&style=for-the-badge" alt="googlecloud"/></a>
-<a href="https://app.axure.cloud/" target="_blank"><img src="https://img.shields.io/badge/-microsoft_azure-white?logo=microsoftazure&logoColor=232F3E&style=for-the-badge" alt="microsoftazure"/></a>
-<a href="https://cpanel.net/" target="_blank"><img src="https://img.shields.io/badge/-cpanel-white?logo=cpanel&logoColor=FF6C2C&style=for-the-badge" alt="cpanel"/></a>
-<a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/-apache-white?logo=apache&logoColor=D22128&style=for-the-badge" alt="apache"/></a>
-
-
-<h3>IDE & Tools</h3>
-
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-vscode-white?logo=visualstudio&logoColor=000000&style=for-the-badge" alt="vscode"/></a>
-<a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
-<a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://img.shields.io/badge/-mysql_workbench-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-windows-white?logo=windows&logoColor=0078D6&style=for-the-badge" alt="windows"/></a>
-<a href="https://github.com/microsoft/terminal" target="_blank"><img src="https://img.shields.io/badge/-windows_terminal-white?logo=windowsterminal&logoColor=4D4D4D&style=for-the-badge" alt="windowsterminal"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-ubuntu-white?logo=ubuntu&logoColor=E95420&style=for-the-badge" alt="ubuntu"/></a>
-</div>
-
-<small><strong>*</strong> Studying and improving technology skills.</small>
+<!-- Quick Facts -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React-informational?logo=react" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?logo=mysql" />
+  <img src="https://img.shields.io/badge/Cloud-GCP-blueviolet?logo=googlecloud" />
+  <img src="https://img.shields.io/badge/OS-Windows-0078d6?logo=windows" />
+</p>
 
 ---
 
-<div align="center">
-<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
-<div style="display: flex; align-items: center; justify-content: center;">
+## 🧑‍💻 About Me
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ShivamKumarSah&theme=tokyonight&hide_border=true)](https://github.com/ShivamKumarSah)
+- 🌍 Based in **Kolkata, India**
+- 💼 Open to new projects & collaborations
+- 🎓 Passionate about **Web Development, UI/UX, and Cloud Computing**
+- 🧠 Always learning something new!
+- ✍️ Writing code, building products, and sharing knowledge
 
-</div>
-</div>
+---
 
-<div align="center">
+## 🌟 My Tech Stack
 
-![](https://komarev.com/ghpvc/?username=ShivamKumarSah&style=flat-square)
+```js
+const shivamSkills = {
+  languages: ['JavaScript', 'HTML', 'CSS', 'SQL'],
+  frameworks: ['React', 'Bootstrap', 'Tailwind CSS'],
+  databases: ['MySQL', 'Oracle'],
+  tools: ['VSCode', 'Git', 'GitHub', 'cPanel', 'Azure'],
+  cloud: ['Google Cloud', 'Microsoft Azure'],
+  operatingSystems: ['Windows', 'Ubuntu'],
+};
+```
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,mysql,oracle,azure,gcp,git,github,vscode,windows,ubuntu" />
+</p>
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamKumarSah&show_icons=true&hide_border=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShivamKumarSah&theme=tokyonight&hide_border=true" height="165">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKumarSah&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects Spotlight
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [Awesome Portfolio](https://github.com/ShivamKumarSah/awesome-portfolio) | A modern, responsive portfolio website template. | React, Tailwind CSS |
+| [Blogify](https://github.com/ShivamKumarSah/blogify) | A full-stack blogging platform for sharing ideas. | Node.js, Express, MySQL |
+| [CloudDeploy](https://github.com/ShivamKumarSah/clouddeploy) | Seamless cloud deployment tool for web apps. | Azure, GCP, Docker |
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/ShivamKumarSah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shivamkumarsah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/shivamkumarsah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/shivamkumarsah/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/shivamkumarsah"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamKumarSah&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Fun Footer -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=%23fff" alt="Jokes" />
+</p>
