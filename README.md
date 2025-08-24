@@ -25,8 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌍 Based in **Kolkata, India**
-- 👨‍💻 Software Engineer at **National Informatics Centre (NIC)** | ex-**DRDO Intern**
+- 👨‍💻 Software Developer at **National Informatics Centre (NIC)** | ex-**DRDO Intern**
 - 🏆 Finalist – **Smart India Hackathon & Smart Bengal Hackathon**  
 - 💼 Open to new projects & collaborations
 - 🎓 Passionate about **Web Development, UI/UX, and Cloud Computing**
