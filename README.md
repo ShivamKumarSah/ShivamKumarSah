@@ -8,7 +8,7 @@
   <img src="https://avatars.githubusercontent.com/u/67648712?v=4" width="120" height="120" style="border-radius:50%;" alt="Shivam Kumar Sah"/>
 </p>
 <p align="center">
-  <b>🚀 Programmer | 🎨 Web Developer | 📝 Lifelong Learner</b><br>
+  <b>🚀 Programmer | 🎨 Software Developer | 📝 Lifelong Learner</b><br>
   <em>Turning ideas into code, one pixel at a time.</em>
 </p>
 
@@ -26,6 +26,8 @@
 ## 🧑‍💻 About Me
 
 - 🌍 Based in **Kolkata, India**
+- 👨‍💻 Software Engineer at **National Informatics Centre (NIC)** | ex-**DRDO Intern**
+- 🏆 Finalist – **Smart India Hackathon & Smart Bengal Hackathon**  
 - 💼 Open to new projects & collaborations
 - 🎓 Passionate about **Web Development, UI/UX, and Cloud Computing**
 - 🧠 Always learning something new!
